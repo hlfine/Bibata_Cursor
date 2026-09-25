@@ -1,3 +1,4 @@
+### Open For work On [Upwork](https://www.upwork.com/freelancers/~015f3c5097705a3287)
 ## ⚠️ Notice: Final Major Version v2.x.x
 
 I've launched the successor to this project at https://www.github.com/ful1e5/bibata for **downloading and personalizing Bibata**, now the main source for new features. I recommend downloading from there. This repository is still maintained for [Linux packages](#packages).
